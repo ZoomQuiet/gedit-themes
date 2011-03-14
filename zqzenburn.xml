@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<style-scheme id="zqzenburn" name="ZqZenburn" version="1.0">
+    <author>Zoom Quiet</author>
+    <_description>A hack of Zenburn</_description>
+
+<color name="gray" value="#bbbbbb"/>
+<color name="white" value="#eeeeee"/>
+<color name="yellow" value="#fce94f"/>
+<color name="senape" value="#acc900"/>
+<color name="lime" value="#96ff00"/>
+<color name="green" value="#00c900"/>
+<color name="alga" value="#00c99b"/>
+<color name="aqua" value="#00d8ff"/>
+<color name="cyan" value="#66BDE3"/>
+<color name="violet" value="#9e91ff"/>
+<color name="purple" value="#bb66ff"/>
+<color name="fuchsia" value="#ff44cc"/>
+<color name="magenta" value="#ff79d9"/>
+<color name="red" value="#ff2f6a"/>
+<color name="orange" value="#FF872E"/>
+<color name="ambra" value="#ff9900"/>
+<color name="asfalto" value="#555753"/>
+<color name="carbon" value="#3b3b3b"/>
+<!--
+        GUI styles 
+-->
+    <style name="text"              background="#3f3f3f" foreground="#dcdccc" />
+    <style name="cursor"            background="#000d18" bold="true" foreground="#8faf9f"/>
+    <style name="current-line"      background="#black"/>
+    <style name="line-numbers"      background="#464646" foreground="#7f8f8f" />
+    <style name="diff:added-line"   background="#333333" bold="true" foreground="#709080" />
+    <style name="diff:changed-line" background="#333333" />
+    <style name="diff:removed-line" background="#333333" foreground="#464646" />
+    <style name="search-match"      background="#385f38" foreground="#ffffe0" />
+    <style name="bracket-match"     background="purple" foreground="white"/>
+    <style name="bracket-mismatch"  background="magenta" foreground="white"/>
+
+<!--
+        Default styles 
+-->
+    <style name="def:boolean"       foreground="#dca3a3"/>
+    <style name="def:comment"       foreground="#7f9f7f" />
+    <style name="def:constant"      foreground="#dca3a3" bold="true" />
+    <style name="def:function"      foreground="#efef8f" />
+    <style name="def:identifier"    foreground="#efdcbc" />
+    <style name="def:keyword"       foreground="#f0dfaf" bold="true" />
+    <style name="def:number"        foreground="#8cd0d3" />
+    <style name="def:preprocessor"  foreground="#ffcfaf" bold="true" />
+    <style name="def:specials"      foreground="#cfbfaf" />
+    <style name="def:statement"     foreground="#e3ceab" background="#3f3f3f"/>
+    <style name="def:string"        foreground="#cc9393" />
+    <style name="def:type"          foreground="#dfdfbf" bold="true" />
+    <style name="def:error"         foreground="#e37170" bold="true" background="#201010" />
+</style-scheme>
+
+
+

@@ -1,37 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
 
- Copyright (C) 2007 GtkSourceView team
- Author: Paolo Borelli <pborelli@gnome.org>
+<style-scheme id="omega" _name="Omega" version="1.0">
 
- This library is free software; you can redistribute it and/or
- modify it under the terms of the GNU Library General Public
- License as published by the Free Software Foundation; either
- version 2 of the License, or (at your option) any later version.
-
- This library is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
- Library General Public License for more details.
-
- You should have received a copy of the GNU Library General Public
- License along with this library; if not, write to the
- Free Software Foundation, Inc., 59 Temple Place - Suite 330,
- Boston, MA 02111-1307, USA.
-
--->
-
-<style-scheme id="oblivion" _name="Oblivion" version="1.0">
-
-  <author>Paolo Borelli</author>
-  <_description>Dark color scheme using the Tango color palette</_description>
+  <author>Christopher Benninger</author>
+  <_description>Customized Oblivion-like scheme</_description>
 
   <!-- Tango Palette -->
   <color name="butter1"                     value="#fce94f"/>
-  <color name="butter2"                     value="#edd400"/>
+  <color name="butter2"                     value="#DEA818"/>
   <color name="butter3"                     value="#c4a000"/>
-  <color name="chameleon1"                  value="#8ae234"/>
-  <color name="chameleon2"                  value="#73d216"/>
+  <color name="chameleon1"                  value="#83C244"/>
+  <color name="chameleon2"                  value="#6EB924"/>
   <color name="chameleon3"                  value="#4e9a06"/>
   <color name="orange1"                     value="#fcaf3e"/>
   <color name="orange2"                     value="#f57900"/>
@@ -39,7 +18,7 @@
   <color name="skyblue1"                    value="#729fcf"/>
   <color name="skyblue2"                    value="#3465a4"/>
   <color name="skyblue3"                    value="#204a87"/>
-  <color name="plum1"                       value="#ad7fa8"/>
+  <color name="plum1"                       value="#B673AF"/>
   <color name="plum2"                       value="#75507b"/>
   <color name="plum3"                       value="#5c3566"/>
   <color name="chocolate1"                  value="#e9b96e"/>
@@ -49,11 +28,11 @@
   <color name="scarletred2"                 value="#cc0000"/>
   <color name="scarletred3"                 value="#a40000"/>
   <color name="aluminium1"                  value="#eeeeec"/>
-  <color name="aluminium2"                  value="#d3d7cf"/>
+  <color name="aluminium2"                  value="#DBD4D4"/>
   <color name="aluminium3"                  value="#babdb6"/>
   <color name="aluminium4"                  value="#888a85"/>
   <color name="aluminium5"                  value="#555753"/>
-  <color name="aluminium6"                  value="#2e3436"/>
+  <color name="aluminium6"                  value="#3D3B3B"/>
 
   <!-- Global Settings -->
   <style name="text"                        foreground="aluminium2" background="aluminium6"/>
